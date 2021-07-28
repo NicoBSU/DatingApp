@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { AccountService } from '../_services/account.service';
 
+
 @Component({
   selector: 'app-nav',
   templateUrl: './nav.component.html',
@@ -21,5 +22,9 @@ export class NavComponent implements OnInit {
     },error => {
       console.log(error);
     })
+  }
+
+  logout(){
+    this.loggedIn = false;
   }
 }
