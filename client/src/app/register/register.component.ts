@@ -27,7 +27,7 @@ export class RegisterComponent implements OnInit {
         Validators.maxLength(15)]),
       confirmPassword: new FormControl('',[Validators.required, this.matchValues('password')])
     })
-    this.registerForm.controls.password.value.subscribe(() => {
+    this.registerForm.controls.password.valueChanges.subscribe(() => {
       this.registerForm.controls.confirmPassword.updateValueAndValidity();
     })
   }
