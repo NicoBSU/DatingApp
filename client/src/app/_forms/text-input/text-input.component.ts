@@ -29,7 +29,4 @@ export class TextInputComponent implements ControlValueAccessor {
   }
   
 
-  ngOnInit(): void {
-  }
-
 }
