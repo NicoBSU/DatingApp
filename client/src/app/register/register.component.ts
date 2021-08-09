@@ -14,7 +14,7 @@ export class RegisterComponent implements OnInit {
   
   @Output() cancelRegister = new EventEmitter();
   registerForm: FormGroup = {} as FormGroup;
-  //maxDate:Date;
+  maxDate:Date;
   validationErrors:string[] = [];
 
 
@@ -23,8 +23,8 @@ export class RegisterComponent implements OnInit {
 
   ngOnInit(): void {
     this.initializeForm();
-    //this.maxDate = new Date();
-    //this.maxDate.setFullYear(this.maxDate.getFullYear()-18);
+    this.maxDate = new Date();
+    this.maxDate.setFullYear(this.maxDate.getFullYear()-12);
   }
 
   initializeForm(){
