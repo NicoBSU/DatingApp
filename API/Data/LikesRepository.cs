@@ -48,7 +48,7 @@ namespace API.Data
             }).ToListAsync();
         }
 
-        public async Task<AppUser> GetUserWithLike(int userId)
+        public async Task<AppUser> GetUserWithLikes(int userId)
         {
             return await _context.Users
                 .Include(x => x.LikedUsers)
