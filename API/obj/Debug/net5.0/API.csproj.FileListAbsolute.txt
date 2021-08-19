@@ -73,3 +73,5 @@ D:\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivatio
 D:\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 D:\DatingApp\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
 D:\DatingApp\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\DatingApp\API\bin\Debug\net5.0\Npgsql.dll
+D:\DatingApp\API\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "hA2sFoWi9aZE2gRo/z4D9FRL0gAnqKAV6+RZzJc5k86VbrRGyM304gC/bS1xdQS4R2VLXWEiYmv1xsjjnLCuNg==",
+  "dgSpecHash": "XalzZBJh13SOYp7gWTw2G+/MyPO5srQek43jxiG0dPV3GP70676oW5/MsRd5L4D4Y/7ZrFTLHB9YNc7Mg8mdFw==",
   "success": true,
   "projectFilePath": "D:\\DatingApp\\API\\API.csproj",
   "expectedPackageFiles": [
@@ -46,6 +46,8 @@
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.12.0\\microsoft.identitymodel.tokens.6.12.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\npgsql\\5.0.7\\npgsql.5.0.7.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\5.0.7\\npgsql.entityframeworkcore.postgresql.5.0.7.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.4\\sqlitepclraw.bundle_e_sqlite3.2.0.4.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
@@ -60,6 +62,7 @@
     "C:\\Users\\USER\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.12.0\\system.identitymodel.tokens.jwt.6.12.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
   ],
