@@ -454,4 +454,5 @@ $RECYCLE.BIN/
 !.vscode/extensions.json
 API/bin/Debug/net5.0
 API/obj/
+API/wwwroot
 
